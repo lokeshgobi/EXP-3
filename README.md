@@ -12,11 +12,17 @@ Range / Type
 Quantity
 
 1	Incandescent Lamp	60W	1 No.
+
 2	Lamp Holder	Pendent Type	1 No.
+
 3	SPDT Switch	230V,5A	2 Nos
+
 4	Wires	1/18”	As per requirement
+
 5	P.V.C Pipe	1/4"	As per requirement
+
 6	Wooden Board	-	1 No.
+
 7	Round block	-	1 No.
 
 
@@ -34,7 +40,7 @@ The  connection  to  the  light  point  is  taken  from  the  similar  short cir
 
 PROCEDURE
 
-•  Place the accessories on the wiring board as per the circuit diagram.
+•  Place4444 the accessories on the wiring board as per the circuit diagram.
 
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 
