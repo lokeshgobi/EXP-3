@@ -21,6 +21,7 @@ Quantity
 
 
 Theory:
+
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
@@ -32,15 +33,23 @@ Theory:
 The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables
 
 PROCEDURE
+
 •  Place the accessories on the wiring board as per the circuit diagram.
+
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
+
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
-•  Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
+
+•  Upper point of SPDT switch 1 is connected to the lower point of SPDT switch2.
+
 •  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
+
 •	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
+
 •  Another end of lamp holder is connected to neutral line.
+
 •  Screw the accessories on the board and switch on the supply.
+
 •  Circuit is tested for all possible combination of switch positions.
 
 
@@ -61,5 +70,6 @@ CIRCUIT DIAGRAM:
 
 Tabulation:2
 ![staraight](https://github.com/user-attachments/assets/2113d5da-2ebd-4599-88fb-c9207c43020b)
+
 RESULT:
 Thus the staircase wiring is connected and tested.
