@@ -65,18 +65,22 @@ Direct connection:
 
 CIRCUIT DIAGRAM: 
 
-<img width="1006" height="391" alt="Screenshot 2025-09-20 101125" src="https://github.com/user-attachments/assets/812f7f5d-d64d-4a9f-b173-47af303419fe" />
+<img width="1006" height="391" alt="Screenshot 2025-09-20 101125" src="https://github.com/user-attachments/assets/8c04f781-ec86-4893-89b8-c34878b78846" />
 
 Tabulation:1
-![staraight](https://github.com/user-attachments/assets/2113d5da-2ebd-4599-88fb-c9207c43020b)
+
+![staraight](https://github.com/user-attachments/assets/e3e88e08-d454-49bb-939d-f2ed2b67dccf)
 
 Cross connection:
 
 CIRCUIT DIAGRAM:
 
-<img width="925" height="344" alt="Screenshot 2025-09-20 101615" src="https://github.com/user-attachments/assets/69ff3b06-1fc7-49bb-9da1-8f2e1bbf9b17" />
+<img width="925" height="344" alt="Screenshot 2025-09-20 101615" src="https://github.com/user-attachments/assets/129c8366-4e11-4c33-97f3-e9cda38508d4" />
 
 Tabulation:2
-![cross](https://github.com/user-attachments/assets/e023e516-1deb-44ed-9b21-7bceae83ded3)
+
+![cross](https://github.com/user-attachments/assets/db6fdbb4-6853-4fa2-ae70-7ff8fee472c5)
+
 RESULT:
+
 Thus the staircase wiring is connected and tested.
